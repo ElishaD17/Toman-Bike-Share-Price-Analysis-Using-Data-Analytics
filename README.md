@@ -1,5 +1,5 @@
 # Toman Bike Share Price Analysis Using Data Analytics
-
+ ![mv](l.jpg)
 ## Overview
 This project aims to analyze bike share usage data to determine the feasibility of a price increase. It utilizes SQL for database management and querying, and Power BI for dashboard creation and data visualization. The project covers the full workflow from data preparation to making strategic pricing recommendations.
 
