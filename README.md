@@ -44,6 +44,10 @@ The analysis involves using SQL queries to extract insights and Power BI to visu
 - Usage patterns by time of day, day of the week, and season.
 - User segmentation and behavior analysis.
 - Revenue analysis and the impact of different pricing scenarios.
+  
+## Dashboard
+
+![mv](image.png)
 
 ## Strategic Recommendations
 Based on the analysis, strategic recommendations are made regarding the feasibility of a price increase. This includes:
